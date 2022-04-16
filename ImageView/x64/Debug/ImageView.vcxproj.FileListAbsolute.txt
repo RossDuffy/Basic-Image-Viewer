@@ -1,0 +1,4 @@
+C:\Users\delor\source\repos\ImageView\ImageView\x64\Debug\ImageView.vcxproj.AssemblyReference.cache
+C:\Users\delor\source\repos\ImageView\ImageView\x64\Debug\ImageView.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\delor\source\repos\ImageView\ImageView\x64\Debug\ImageView.MyForm.resources
+C:\Users\delor\source\repos\ImageView\ImageView\x64\Debug\ImageView.vcxproj.GenerateResource.cache
